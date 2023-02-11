@@ -1,4 +1,3 @@
-
 package com.porfolio.tob.Security.Repository;
 
 import com.porfolio.tob.Security.Entity.Rol;
@@ -9,5 +8,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface iRolRepository extends JpaRepository<Rol, Integer>{
-    Optional<Rol> findByRolNombre (RolNombre rolNombre);
+    Optional<Rol> findByRolNombre(RolNombre rolNombre);
 }

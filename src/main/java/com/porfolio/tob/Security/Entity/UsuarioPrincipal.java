@@ -8,16 +8,19 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
+/**
+ *
+ * @author Usuario
+ */
+public class UsuarioPrincipal implements UserDetails {
 
-public class UsuarioPrincipal implements UserDetails{
-private String nombre;
-private String nombreUsuario;
-private String email;
-private String password;
-private Collection<? extends GrantedAuthority> authorities;
+    private final String nombre;
+    private final String nombreUsuario;
+    private final String email;
+    private final String password;
+    private final Collection<? extends GrantedAuthority> authorities;
 
-//const
-
+    //Constructor
     public UsuarioPrincipal(String nombre, String nombreUsuario, String email, String password, Collection<? extends GrantedAuthority> authorities) {
         this.nombre = nombre;
         this.nombreUsuario = nombreUsuario;
@@ -25,18 +28,18 @@ private Collection<? extends GrantedAuthority> authorities;
         this.password = password;
         this.authorities = authorities;
     }
-   
-    public static UsuarioPrincipal build(Usuario usuario){
+
+    public static UsuarioPrincipal build(Usuario usuario) {
         List<GrantedAuthority> authorities = usuario.getRoles().stream()
-                .map(rol -> new SimpleGrantedAuthority(rol.getRolNombre().name()))
-                .collect(Collectors.toList());
-        return new UsuarioPrincipal(usuario.getNombre(),usuario.getNombreUsuario(),usuario.getEmail(),
-                usuario.getPassword(),authorities);
+                .map(rol -> new SimpleGrantedAuthority(rol.getRolNombre().name())).collect(Collectors
+                .toList());
+        return new UsuarioPrincipal(usuario.getNombre(), usuario.getNombreUsuario(), usuario.getEmail(),
+                 usuario.getPassword(), authorities);
     }
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-     return authorities;
+        return authorities;
     }
 
     @Override
@@ -45,15 +48,16 @@ private Collection<? extends GrantedAuthority> authorities;
     }
 
     public String getNombre() {
-       return nombre;
+        return nombre;
     }
+
     public String getEmail() {
-       return email;
+        return email;
     }
-    
+
     @Override
     public String getUsername() {
-       return nombreUsuario;
+        return nombreUsuario;
     }
 
     @Override
@@ -63,16 +67,17 @@ private Collection<? extends GrantedAuthority> authorities;
 
     @Override
     public boolean isAccountNonLocked() {
-           return true;
+        return true;
     }
 
     @Override
     public boolean isCredentialsNonExpired() {
-   return true;
+        return true;
     }
 
     @Override
     public boolean isEnabled() {
-   return true;
+        return true;
     }
+
 }

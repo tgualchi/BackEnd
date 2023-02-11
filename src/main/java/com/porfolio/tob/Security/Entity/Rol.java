@@ -1,7 +1,12 @@
-
-package com.porfolio.tob.Security.Entity;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */package com.porfolio.tob.Security.Entity;
 
 import com.porfolio.tob.Security.Enums.RolNombre;
+
+
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
@@ -17,10 +22,9 @@ public class Rol {
     private int id;
     @NotNull
     @Enumerated(EnumType.STRING)
-   private  RolNombre rolNombre;
+    private RolNombre rolNombre;
     
-    //constructor
-
+    //Constructor
     public Rol() {
     }
 
@@ -28,7 +32,7 @@ public class Rol {
         this.rolNombre = rolNombre;
     }
     
-    //geter y seter
+    //Getter y Setter
 
     public int getId() {
         return id;
@@ -45,5 +49,6 @@ public class Rol {
     public void setRolNombre(RolNombre rolNombre) {
         this.rolNombre = rolNombre;
     }
+    
     
 }
