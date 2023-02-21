@@ -13,17 +13,17 @@ public class Proyectos {
     private int id;
     private String nombreP;
     private String descripcionP;
-    private String img;
+    private String imgP;
     
     //Constructores
 
     public Proyectos() {
     }
 
-    public Proyectos(String nombreP, String descripcionP, String img) {
+    public Proyectos(String nombreP, String descripcionP, String imgP) {
         this.nombreP = nombreP;
         this.descripcionP = descripcionP;
-        this.img = img;
+        this.imgP = imgP;
     }
 
     
@@ -53,13 +53,14 @@ public class Proyectos {
         this.descripcionP = descripcionP;
     }
 
-    public String getImg() {
-        return img;
+    public String getImgP() {
+        return imgP;
     }
 
-    public void setImg(String img) {
-        this.img = img;
+    public void setImgP(String imgP) {
+        this.imgP = imgP;
     }
+
 }
 
 

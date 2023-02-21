@@ -15,7 +15,7 @@ public class dtoProyectos {
     @NotBlank
     private String descripcionP;
     @NotBlank
-    private String img;
+    private String imgP;
 
 //Constructores
 
@@ -25,7 +25,7 @@ public class dtoProyectos {
     public dtoProyectos(String nombreP, String descripcionP, String img) {
         this.nombreP = nombreP;
         this.descripcionP = descripcionP;
-        this.img = img;
+        this.imgP = imgP;
     }
     //Getters & Setters
 
@@ -45,15 +45,15 @@ public class dtoProyectos {
         this.descripcionP = descripcionP;
     }
 
-    public String getImg() {
-        return img;
+    public String getImgP() {
+        return imgP;
     }
 
-    public void setImg(String img) {
-        this.img = img;
+    public void setImgP(String imgP) {
+        this.imgP = imgP;
     }
-    
-    
+
+
     
     
 }

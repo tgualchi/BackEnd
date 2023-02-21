@@ -53,7 +53,7 @@ public class CProyectos {
         
      
         
-         Proyectos proyectos = new Proyectos (dtoproyect.getNombreP(), dtoproyect.getDescripcionP(), dtoproyect.getImg());
+         Proyectos proyectos = new Proyectos (dtoproyect.getNombreP(), dtoproyect.getDescripcionP(), dtoproyect.getImgP());
         sProyectos.save(proyectos);
          
         return new ResponseEntity(new Mensaje("Proyecto creada"), HttpStatus.OK);
@@ -76,7 +76,7 @@ public class CProyectos {
      
      proyectos.setNombreP(dtoproyect.getNombreP());
      proyectos.setDescripcionP((dtoproyect.getDescripcionP()));
-     proyectos.setImg(dtoproyect.getImg());
+     proyectos.setImgP(dtoproyect.getImgP());
         
         sProyectos.save(proyectos);
         return new ResponseEntity(new Mensaje("Proyecto actualizada"), HttpStatus.OK);
