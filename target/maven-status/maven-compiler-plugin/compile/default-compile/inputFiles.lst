@@ -1,44 +1,44 @@
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Repository\IPersonaRepository.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Entity\hys.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Repository\iUsuarioRepository.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Enums\RolNombre.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Repository\REducacion.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\jwt\JwtEntryPoint.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\jwt\JwtTokenFilter.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Service\RolService.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Dto\LoginUsuario.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\jwt\JwtProvider.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Service\UserDetailsImpl.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Controller\Mensaje.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Entity\Educacion.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Entity\Rol.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Controller\CProyectos.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Entity\Persona.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\MainSecurity.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Entity\Proyectos.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Service\SEducacion.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Entity\Experiencia.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Controller\CEducacion.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Controller\AuthController.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Repository\RProyectos.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Service\SExperiencia.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Service\ImpPersonaService.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Controller\CHys.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Service\SProyectos.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Entity\UsuarioPrincipal.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Service\UsuarioService.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Controller\PersonaController.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Dto\dtoPersona.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Repository\iRolRepository.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Dto\dtoHys.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Dto\dtoProyectos.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Repository\Rhys.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Dto\dtoExperiencia.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Repository\RExperiencia.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Dto\JwtDto.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Controller\CExperiencia.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Entity\Usuario.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Dto\dtoEducacion.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\GualApplication.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Security\Dto\NuevoUsuario.java
-D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd\src\main\java\com\porfolio\tob\Service\Shys.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Service\SExperiencia.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Repository\RProyectos.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Dto\dtoExperiencia.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Service\UserDetailsImpl.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Controller\CHys.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Dto\LoginUsuario.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Controller\AuthController.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\jwt\JwtProvider.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Service\UsuarioService.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Entity\Proyectos.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\jwt\JwtEntryPoint.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\jwt\JwtTokenFilter.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Controller\CProyectos.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Dto\NuevoUsuario.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Service\ImpPersonaService.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Repository\iUsuarioRepository.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Controller\Mensaje.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Repository\iRolRepository.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Dto\dtoHys.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Entity\Persona.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Repository\RExperiencia.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Entity\UsuarioPrincipal.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Repository\IPersonaRepository.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Enums\RolNombre.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Controller\CEducacion.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\MainSecurity.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Repository\REducacion.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Entity\Rol.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Entity\Educacion.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Entity\hys.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Dto\dtoEducacion.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Controller\PersonaController.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Repository\Rhys.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Service\SProyectos.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Dto\dtoProyectos.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Entity\Experiencia.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Dto\JwtDto.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Service\Shys.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Controller\CExperiencia.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\GualApplication.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Service\SEducacion.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Dto\dtoPersona.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Entity\Usuario.java
+D:\PracticaArgentinaPrograma\Proyectos\ProyectoParaAgrentinaPrograma_TG\Proyecto_TG\BackEnd - CentroBoro\src\main\java\com\porfolio\tob\Security\Service\RolService.java

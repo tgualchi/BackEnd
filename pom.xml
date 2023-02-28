@@ -11,11 +11,11 @@
     </parent>
     
     
-    <groupId>com.porfolio</groupId>
-    <artifactId>tob</artifactId>
+    <groupId>com.centroboro</groupId>
+    <artifactId>CentroBoro</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>gual</name>
-    <description>Porfolio TG</description>
+    <description>Centro Boro</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
